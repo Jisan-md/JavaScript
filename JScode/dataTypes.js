@@ -14,7 +14,7 @@
 
 
 // 8-object
-let str="vishal"
+let str="Zishan"
 console.log(typeof str); // typeof used to know the variable type for ex-string,number,obect etc
 console.log(typeof null) // output typeof null=object
 console.log(typeof undefined); // output typeof undefined=undefined
